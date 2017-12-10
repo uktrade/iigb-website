@@ -1,0 +1,20 @@
+prose:
+  rooturl: 'content'
+  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  # ignore:
+  #   - .test.test # just a nonexisting file be in configuraton file as example
+  metadata:
+    content:  # directory for the rule to be applied
+      - name: "title"
+        field:
+          element: "textarea"
+          label: "Title"
+          placeholder: "Enter title"
+          help: "Enter title"
+      - name: "summary"
+        field:
+          element: "textarea"
+          label: "Summary"
+          placeholder: "Enter a brief summary for this content"
+          help: "Enter summary"
