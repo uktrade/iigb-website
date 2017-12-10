@@ -1,0 +1,24 @@
+{
+  "globalData": {
+    "locale": {
+      "language": "en",
+      "country": "int",
+      "code": "en_US",
+      "countryName": "International"
+    },
+    "labels": {
+      "content": "_labels/labels.md",
+      "hoist": true
+    }
+  },
+  "pages": [{
+    "path": "",
+    "layout": "language.html",
+    "data": {
+      "pageTitle": "Select your language - invest.great.gov.uk",
+      "pageHeader": {
+        "content": "beta/home/en_US.md"
+      }
+    }
+  }]
+}
