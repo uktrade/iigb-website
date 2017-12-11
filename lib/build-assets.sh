@@ -8,4 +8,4 @@ source 'lib/init.sh'
 mkdirp $assets_output
 echo "Copying assets under $assets_output"
 cp -R src/assets/* $assets_output
-cp -R node_modules/iigb-beta-content/media ${assets_output}
+cp -R content/media ${assets_output}

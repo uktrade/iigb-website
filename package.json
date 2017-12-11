@@ -10,8 +10,7 @@
     "jquery.autocomplete": "./src/js/jquery.autocomplete.min.js"
   },
   "config": {
-    "debug": "metalsmith-page-builder",
-    "cms_branch": "develop"
+    "debug": "metalsmith-page-builder"
   },
   "scripts": {
     "dev": "npm run clean && npm run build-dev && nodemon -e html --watch src/templates lib/server.js",
@@ -30,7 +29,6 @@
     "integration-tests": "./lib/run-integration-tests.sh",
     "browser-test-full": "node_modules/.bin/wdio conf/parallel.conf.js",
     "browser-test-single": "node_modules/.bin/wdio conf/single.conf.js",
-    "postinstall": "npm install uktrade/iigb-beta-structure#\"$npm_package_config_cms_branch\" github:uktrade/iigb-beta-content#\"$npm_package_config_cms_branch\"",
     "release": "node_modules/iigb-aws-helpers/release.sh",
     "rollback": "node_modules/iigb-aws-helpers/rollback.sh"
   },
@@ -38,8 +36,6 @@
     "async": "^2.1.5",
     "bootstrap": "^3.3.7",
     "html5shiv": "^3.7.3",
-    "iigb-beta-content": "uktrade/iigb-beta-content#develop",
-    "iigb-beta-structure": "github:uktrade/iigb-beta-structure#develop",
     "jquery": "^3.1.1",
     "metalsmith-page-builder": "github:uktrade/metalsmith-page-builder",
     "metalsmith-sitemap": "^1.2.0",
@@ -52,7 +48,7 @@
     "browserify": "^13.3.0",
     "browserstack-local": "^1.3.0",
     "envify": "^4.0.0",
-    "express": "^4.14.0",
+    "express": "^4.16.2",
     "iigb-aws-helpers": "uktrade/iigb-aws-helpers",
     "iigb-cms-tags": "uktrade/iigb-cms-tags",
     "jasmine": "^2.5.3",

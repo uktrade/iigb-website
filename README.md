@@ -39,8 +39,6 @@ In order to run the tool locally in development you'll need the following :
 ## Dependencies
 
 - [iigb-aws-helpers](https://github.com/uktrade/iigb-aws-helpers)
-- [iigb-beta-content](https://github.com/uktrade/iigb-beta-content)
-- [iigb-beta-structure](https://github.com/uktrade/iigb-beta-structure)
 
 ## Getting Started with development
 
@@ -93,6 +91,8 @@ Below snippet outlines project structure. This snippet only lists files of impor
 - conf/               
   - parallel.conf.js #Browserstack configuration for parallel tests
   - single.conf.js   #Browserstach configuration for a single device
+- content/            # Markdown files holding any textual content - processed by metalsmith
+- structure/          # JSON files defining page structure         - processed by metalsmith-page-builder
 - dev-ssl/            # Ssl certificate for dev.invest.great.gov.uk to be served through development server
 - Dockerfile          # Docker file for build container
 - lib/                # Helper libraries for building and development
@@ -126,7 +126,6 @@ Below snippet outlines project structure. This snippet only lists files of impor
 | Variable    | Default   | Description |
 -------       |---------  |----------   |
 IIGB_SEARCH   |  https://5dle4b7qu3.execute-api.eu-west-1.amazonaws.com/prod | AWS Cloud api for site search |
-CMS_BRANCH    | develop | Branch to use from [iigb-beta-structure](https://github.com/uktrade/iigb-beta-structure) |
 IIGB_BUILD    |             | Folder name for assets to be copied under. Unix timestamp is set as IIGB_BUILD to when [deployed](#deployment) using Docker deploy script. All references to assets linked in html output use this environment variable to link static assets (images, css, javascript, etc.)|
 BASE_IIGB_URL |             | The root domain URL for the environment.
 
@@ -137,13 +136,20 @@ This application is developed using [git flow](http://nvie.com/posts/a-successfu
 
 The following prefixes are used for special branches:
 
-- Fature branches: *feature/\<feature-description\>*
+- Feature branches: *feature/\<feature-description\>*
 - Release branches: *release/v\<release-version\>*
 - Hotfix branches: *hotfix/\<hotfix-description\>*
+
+
+Simple guide to gitflow
+
+[https://medium.com/@muneebsajjad/git-flow-explained-quick-and-simple-7a753313572f](https://medium.com/@muneebsajjad/git-flow-explained-quick-and-simple-7a753313572f)
+
 
 *Tip:* Following link shows alternative tools and installation methods for git flow:
 
 [http://danielkummer.github.io/git-flow-cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
 
 ### Testing
 
