@@ -3,9 +3,7 @@
 <!-- toc -->
 
 - [The purpose](#the-purpose)
-- [Getting Started with development](#getting-started-with-development)
 - [Structure](#projectfile-structure)
-- [Deployment & Release](#deployment--release)
 
 <!-- tocstop -->
 
