@@ -1,0 +1,977 @@
+{
+  "globalData": {
+    "base": "es",
+    "locale": {
+      "language": "es",
+      "country": "es",
+      "code": "es_ES",
+      "countryName": "España"
+    },
+    "labels": {
+      "content": "_labels/labels.md",
+      "hoist": true
+    },
+    "formBlock": {
+      "content": "beta/form/es_ES.md"
+    }
+  },
+  "pages": [{
+    "path": "es",
+    "layout": "home.html",
+    "data": {
+      "pageTitle": "Inicio",
+      "pageHeader": {
+        "content": "beta/home/es_ES.md",
+        "externalVideo": "https://www.youtube.com/embed/VNtE_fC-tGk?rel=0",
+        "heroImage": "iigb-hero.jpg"
+      },
+      "firstSection": {
+        "content": "beta/form/es_ES.md"
+      },
+      "tileItems": [{
+        "content": "beta/industries/automotive/es_ES.md",
+        "thumbnail": "automotive.jpg",
+        "link": "/industries/automotive"
+      }, {
+        "content": "beta/industries/creative/es_ES.md",
+        "thumbnail": "creative.jpg",
+        "link": "/industries/creative"
+      }, {
+        "content": "beta/industries/energy-generation/es_ES.md",
+        "thumbnail": "energy.jpg",
+        "link": "/industries/energy"
+      }, {
+        "content": "beta/industries/financial-services/es_ES.md",
+        "thumbnail": "financial-services.jpg",
+        "link": "/industries/financial-services"
+      }, {
+        "content": "beta/industries/life-sciences/es_ES.md",
+        "thumbnail": "life-sciences.jpg",
+        "link": "/industries/health-and-life"
+      }, {
+        "content": "beta/industries/technology/es_ES.md",
+        "thumbnail": "technology.jpg",
+        "link": "/industries/technology"
+      }],
+      "listHeader": {
+        "content": "beta/setup-guide/es_ES.md"
+      },
+      "listItems": [{
+        "content": "beta/setup-guide/how-to-setup/es_ES.md",
+        "link": "/setup-guide/how-to-setup"
+      }, {
+        "content": "beta/setup-guide/apply-for-visa/es_ES.md",
+        "link": "/setup-guide/apply-for-visa"
+      }, {
+        "content": "beta/setup-guide/open-a-business-account/es_ES.md",
+        "link": "/setup-guide/open-a-business-account"
+      }, {
+        "content": "beta/setup-guide/understand-tax/es_ES.md",
+        "link": "/setup-guide/understand-tax"
+      }, {
+        "content": "beta/setup-guide/establish-address/es_ES.md",
+        "link": "/setup-guide/establish-address"
+      }, {
+        "content": "beta/setup-guide/access-talent/es_ES.md",
+        "link": "/setup-guide/access-talent"
+      }, {
+        "content": "beta/setup-guide/understand-legal/es_ES.md",
+        "link": "/setup-guide/understand-legal"
+      }]
+    },
+    "children": [{
+      "path": "",
+      "output": "404.html",
+      "layout": "404.html",
+      "data": {
+        "pageTitle": "HTTP 404 - Página no encontrada",
+        "background": "404.jpg",
+        "pageHeader": {
+          "content": "beta/info/404/es_ES.md"
+        }
+      }
+    }, {
+      "path": "",
+      "output": "500.html",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "HTTP 500 - Error del servidor",
+        "background": "",
+        "pageHeader": {
+          "content": "beta/info/500/es_ES.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/500/es_ES.md"
+        }
+      }
+    }, {
+      "path": "setup-guide",
+      "layout": "bullet-list-page.html",
+      "data": {
+        "pageTitle": "Su guía para establecerse",
+        "pageHeader": {
+          "content": "beta/setup-guide/es_ES.md"
+        },
+        "listItems": [{
+          "content": "beta/setup-guide/how-to-setup/es_ES.md",
+          "link": "/setup-guide/how-to-setup"
+        }, {
+          "content": "beta/setup-guide/apply-for-visa/es_ES.md",
+          "link": "/setup-guide/apply-for-visa"
+        }, {
+          "content": "beta/setup-guide/open-a-business-account/es_ES.md",
+          "link": "/setup-guide/open-a-business-account"
+        }, {
+          "content": "beta/setup-guide/understand-tax/es_ES.md",
+          "link": "/setup-guide/understand-tax"
+        }, {
+          "content": "beta/setup-guide/establish-address/es_ES.md",
+          "link": "/setup-guide/establish-address"
+        }, {
+          "content": "beta/setup-guide/access-talent/es_ES.md",
+          "link": "/setup-guide/access-talent"
+        }, {
+          "content": "beta/setup-guide/understand-legal/es_ES.md",
+          "link": "/setup-guide/understand-legal"
+        }]
+      },
+      "children": [{
+        "path": "establish-address",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "Cómo establecer una base empresarial en el Reino Unido",
+          "pageHeader": {
+            "content": "beta/setup-guide/establish-address/intro/es_ES.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/establish-address/sections/what-you-need-to-know/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/establish-address/sections/regional-centres-of-excellence/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/establish-address/sections/business-clusters/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/establish-address/sections/enterprise-zones/es_ES.md"
+          }]
+        }
+      }, {
+        "path": "apply-for-visa",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "Solicitar un visado para el Reino Unido",
+          "pageHeader": {
+            "content": "beta/setup-guide/apply-for-visa/intro/es_ES.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/apply-for-visa/sections/overview/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/apply-for-visa/sections/understand-the-range-of-visas/es_ES.md"
+          }]
+        }
+      }, {
+        "path": "open-a-business-account",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "Abrir una cuenta bancaria empresarial",
+          "pageHeader": {
+            "content": "beta/setup-guide/open-a-business-account/intro/es_ES.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/open-a-business-account/sections/what-you-need-to-do/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/open-a-business-account/sections/how-long-it-takes/es_ES.md"
+          }]
+        }
+      }, {
+        "path": "how-to-setup",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "Cómo crear una empresa en el Reino Unido",
+          "pageHeader": {
+            "content": "beta/setup-guide/how-to-setup/intro/es_ES.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/how-to-setup/sections/register-a-company/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/how-to-setup/sections/register-a-branch/es_ES.md"
+          }]
+        }
+      }, {
+        "path": "understand-tax",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "Información sobre impuestos e incentivos fiscales",
+          "pageHeader": {
+            "content": "beta/setup-guide/understand-tax/intro/es_ES.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/understand-tax/sections/corporation-tax/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/understand-tax/sections/tax-incentives/es_ES.md"
+          }]
+        }
+      }, {
+        "path": "access-talent",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "Contratar a trabajadores cualificados para sus operaciones",
+          "pageHeader": {
+            "content": "beta/setup-guide/access-talent/intro/es_ES.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/access-talent/sections/flexible-laws/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/access-talent/sections/employment-costs/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/access-talent/sections/access-to-talent/es_ES.md"
+          }]
+        }
+      }, {
+        "path": "understand-legal",
+        "layout": "article.html",
+        "data": {
+          "pageTitle": "El marco legal",
+          "pageHeader": {
+            "content": "beta/setup-guide/understand-legal/intro/es_ES.md"
+          },
+          "sections": [{
+            "content": "beta/setup-guide/understand-legal/Overview/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/understand-legal/sections/protection-when-selling/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/understand-legal/sections/intellectual-property/es_ES.md"
+          }, {
+            "content": "beta/setup-guide/understand-legal/sections/data-protection/es_ES.md"
+          }]
+        }
+      }]
+    }, {
+      "path": "industries",
+      "layout": "landing-page.html",
+      "data": {
+        "pageTitle": "Sectores",
+        "pageHeader": {
+          "content": "beta/industries/es_ES.md"
+        },
+        "tileItems": [{
+          "content": "beta/industries/aerospace/es_ES.md",
+          "thumbnail": "aerospace.jpg",
+          "link": "/industries/aerospace"
+        }, {
+          "content": "beta/industries/advanced-manufacturing/es_ES.md",
+          "thumbnail": "advanced-manufacturing.jpg",
+          "link": "/industries/advanced-manufacturing"
+        }, {
+          "content": "beta/industries/automotive/es_ES.md",
+          "thumbnail": "automotive.jpg",
+          "link": "/industries/automotive"
+        }, {
+          "content": "beta/industries/creative/es_ES.md",
+          "thumbnail": "creative.jpg",
+          "link": "/industries/creative"
+        }, {
+          "content": "beta/industries/energy-generation/es_ES.md",
+          "thumbnail": "energy.jpg",
+          "link": "/industries/energy"
+        }, {
+          "content": "beta/industries/financial-services/es_ES.md",
+          "thumbnail": "financial-services.jpg",
+          "link": "/industries/financial-services"
+        }, {
+          "content": "beta/industries/food-and-drink-manufacturing/es_ES.md",
+          "thumbnail": "food-and-drink-manufacturing.jpg",
+          "link": "/industries/food-and-drink-manufacturing"
+        }, {
+          "content": "beta/industries/life-sciences/es_ES.md",
+          "thumbnail": "life-sciences.jpg",
+          "link": "/industries/health-and-life"
+        }, {
+          "content": "beta/industries/retail/es_ES.md",
+          "thumbnail": "retail.jpg",
+          "link": "/industries/retail"
+        }, {
+          "content": "beta/industries/technology/es_ES.md",
+          "thumbnail": "technology.jpg",
+          "link": "/industries/technology"
+        }],
+        "subTileItems": [{
+          "content": "beta/industries/financial-services/sub-sectors/asset-management/es_ES.md",
+          "thumbnail": "asset-management.jpg",
+          "link": "/industries/financial-services/asset-management"
+        }, {
+          "content": "beta/industries/automotive/sub-sectors/research-and-development/es_ES.md",
+          "thumbnail": "research-and-development.jpg",
+          "link": "/industries/automotive/research-and-development"
+        }, {
+          "content": "beta/industries/automotive/sub-sectors/supply-chain/es_ES.md",
+          "thumbnail": "supply-chain.jpg",
+          "link": "/industries/automotive/supply-chain"
+        }, {
+          "content": "beta/industries/creative/sub-sectors/content-and-production/es_ES.md",
+          "thumbnail": "content-and-production.jpg",
+          "link": "/industries/creative/content-and-production"
+        }, {
+          "content": "beta/industries/technology/sub-sectors/data-analytics/es_ES.md",
+          "thumbnail": "data-analytics.jpg",
+          "link": "/industries/technology/data-analytics"
+        }, {
+          "content": "beta/industries/creative/sub-sectors/digital-media/es_ES.md",
+          "thumbnail": "digital-media.jpg",
+          "link": "/industries/creative/digital-media"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/es_ES.md",
+          "thumbnail": "electrical-networks.jpg",
+          "link": "/industries/energy/electrical-networks"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/es_ES.md",
+          "thumbnail": "energy-from-waste.jpg",
+          "link": "/industries/energy/energy-from-waste"
+        }, {
+          "content": "beta/industries/financial-services/sub-sectors/fintech/es_ES.md",
+          "thumbnail": "fintech.jpg",
+          "link": "/industries/financial-services/financial-technology"
+        }, {
+          "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/es_ES.md",
+          "thumbnail": "freefrom.jpg",
+          "link": "/industries/food-and-drink-manufacturing/freefrom"
+        }, {
+          "content": "beta/industries/life-sciences/sub-sectors/medical-technology/es_ES.md",
+          "thumbnail": "medical-technology.jpg",
+          "link": "/industries/health-and-life/medical-technology"
+        }, {
+          "content": "beta/industries/automotive/sub-sectors/motorsport/es_ES.md",
+          "thumbnail": "motorsport.jpg",
+          "link": "/industries/automotive/motorsport"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/nuclear/es_ES.md",
+          "thumbnail": "nuclear.jpg",
+          "link": "/industries/energy/nuclear"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/es_ES.md",
+          "thumbnail": "offshore.jpg",
+          "link": "/industries/energy/offshore-wind"
+        }, {
+          "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/es_ES.md",
+          "thumbnail": "oil-and-gas.jpg",
+          "link": "/industries/energy/oil-and-gas"
+        }, {
+          "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/es_ES.md",
+          "thumbnail": "medicine-manufacturing.jpg",
+          "link": "/industries/health-and-life/pharmaceutical-manufacturing"
+        }]
+      },
+      "children": [{
+        "path": "aerospace",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "El sector aeroespacial",
+          "pageHeader": {
+            "content": "beta/industries/aerospace/intro/es_ES.md",
+            "heroImage": "aerospace.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/aerospace/overview/es_ES.md"
+          }],
+          "subContent": []
+        }
+      }, {
+        "path": "advanced-manufacturing",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Fabricación avanzada",
+          "pageHeader": {
+            "content": "beta/industries/advanced-manufacturing/intro/es_ES.md",
+            "heroImage": "advanced-manufacturing.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/advanced-manufacturing/overview/es_ES.md"
+          }],
+          "subContent": []
+        }
+      }, {
+        "path": "food-and-drink-manufacturing",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Fabricación de alimentos y bebidas",
+          "pageHeader": {
+            "content": "beta/industries/food-and-drink-manufacturing/intro/es_ES.md",
+            "heroImage": "food-and-drink-manufacturing.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/food-and-drink-manufacturing/overview/es_ES.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/es_ES.md",
+            "thumbnail": "freefrom.jpg",
+            "link": "/industries/food-and-drink-manufacturing/freefrom"
+          }],
+          "children": [{
+            "path": "freefrom",
+            "layout": "sector.html",
+            "data": {
+              "pageTitle": "Alimentos hipoalergénicos en el Reino Unido",
+              "pageHeader": {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/intro/es_ES.md",
+                "heroImage": "freefrom.jpg"
+              },
+              "sections": [{
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/british-buying-habits/es_ES.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/government-support/es_ES.md"
+              }, {
+                "content": "beta/industries/food-and-drink-manufacturing/sub-sectors/freefrom/sections/other-growth-areas/es_ES.md"
+              }]
+            }
+          }]
+        }
+      }, {
+        "path": "retail",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Comercio minorista",
+          "pageHeader": {
+            "content": "beta/industries/retail/intro/es_ES.md",
+            "heroImage": "retail.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/retail/overview/es_ES.md"
+          }],
+          "subContent": []
+        }
+      }, {
+        "path": "automotive",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Automoción en el Reino Unido",
+          "pageHeader": {
+            "content": "beta/industries/automotive/intro/es_ES.md",
+            "heroImage": "automotive.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/automotive/overview/es_ES.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/automotive/sub-sectors/research-and-development/es_ES.md",
+            "thumbnail": "research-and-development.jpg",
+            "link": "/industries/automotive/research-and-development"
+          }, {
+            "content": "beta/industries/automotive/sub-sectors/supply-chain/es_ES.md",
+            "thumbnail": "supply-chain.jpg",
+            "link": "/industries/automotive/supply-chain"
+          }, {
+            "content": "beta/industries/automotive/sub-sectors/motorsport/es_ES.md",
+            "thumbnail": "motorsport.jpg",
+            "link": "/industries/automotive/motorsport"
+          }]
+        },
+        "children": [{
+          "path": "motorsport",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Los deportes de motor",
+            "pageHeader": {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/intro/es_ES.md",
+              "heroImage": "motorsport.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/motorsport/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "research-and-development",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Investigación y desarrollo automotriz",
+            "pageHeader": {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/intro/es_ES.md",
+              "heroImage": "research-and-development.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/Overview/es_ES.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/funding/es_ES.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/research-and-development/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "supply-chain",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Cadena de suministro automovilística",
+            "pageHeader": {
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/intro/es_ES.md",
+              "heroImage": "supply-chain.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/support-and-incentives/es_ES.md"
+            }, {
+              "content": "beta/industries/automotive/sub-sectors/supply-chain/sections/talent-and-skills/es_ES.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "energy",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Producción de energía",
+          "pageHeader": {
+            "content": "beta/industries/energy-generation/intro/es_ES.md",
+            "heroImage": "energy.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/energy-generation/overview/es_ES.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/es_ES.md",
+            "thumbnail": "electrical-networks.jpg",
+            "link": "/industries/energy/electrical-networks"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/es_ES.md",
+            "thumbnail": "energy-from-waste.jpg",
+            "link": "/industries/energy/energy-from-waste"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/nuclear/es_ES.md",
+            "thumbnail": "nuclear.jpg",
+            "link": "/industries/energy/nuclear"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/es_ES.md",
+            "thumbnail": "offshore.jpg",
+            "link": "/industries/energy/offshore-wind"
+          }, {
+            "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/es_ES.md",
+            "thumbnail": "oil-and-gas.jpg",
+            "link": "/industries/energy/oil-and-gas"
+          }]
+        },
+        "children": [{
+          "path": "offshore-wind",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Energía eólica marina",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/intro/es_ES.md",
+              "heroImage": "offshore.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/prime-location/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/expanding-pool/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/offshore-wind/sections/government-support/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "electrical-networks",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Redes eléctricas",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/intro/es_ES.md",
+              "heroImage": "electrical-networks.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/electrical-networks/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "energy-from-waste",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Producción de energía a partir de residuos",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/intro/es_ES.md",
+              "heroImage": "energy-from-waste.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/strong-market/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/opportunities-for-growth/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/supply-chain-opportunities/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/energy-from-waste/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "oil-and-gas",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Petróleo y gas",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/intro/es_ES.md",
+              "heroImage": "oil-and-gas.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/overview/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/oil-and-gas/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "nuclear",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Energía nuclear",
+            "pageHeader": {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/intro/es_ES.md",
+              "heroImage": "nuclear.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/overview/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/energy-generation/sub-sectors/nuclear/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "health-and-life",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Ciencias biológicas y de la salud",
+          "pageHeader": {
+            "content": "beta/industries/life-sciences/intro/es_ES.md",
+            "heroImage": "life-sciences.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/life-sciences/overview/es_ES.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/es_ES.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/health-and-life/medical-technology"
+          }, {
+            "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/es_ES.md",
+            "thumbnail": "medicine-manufacturing.jpg",
+            "link": "/industries/health-and-life/pharmaceutical-manufacturing"
+          }]
+        },
+        "children": [{
+          "path": "medical-technology",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Tecnología médica",
+            "pageHeader": {
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/intro/es_ES.md",
+              "heroImage": "medical-technology.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medical-technology/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "pharmaceutical-manufacturing",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Fabricación farmacéutica",
+            "pageHeader": {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/intro/es_ES.md",
+              "heroImage": "medicine-manufacturing.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/life-sciences/sub-sectors/medicines-manufacturing/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "creative",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Creatividad",
+          "pageHeader": {
+            "content": "beta/industries/creative/intro/es_ES.md",
+            "externalVideo": "https://www.youtube.com/embed/tuLiFZLRXl8?rel=0",
+            "heroImage": "creative.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/creative/overview/es_ES.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/creative/sub-sectors/content-and-production/es_ES.md",
+            "thumbnail": "content-and-production.jpg",
+            "link": "/industries/creative/content-and-production"
+          }, {
+            "content": "beta/industries/technology/sub-sectors/data-analytics/es_ES.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
+            "content": "beta/industries/creative/sub-sectors/digital-media/es_ES.md",
+            "thumbnail": "digital-media.jpg",
+            "link": "/industries/creative/digital-media"
+          }]
+        },
+        "children": [{
+          "path": "content-and-production",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Creación y producción de contenidos creativos",
+            "pageHeader": {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/intro/es_ES.md",
+              "heroImage": "content-and-production.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/overview/es_ES.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/content-and-production/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "digital-media",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Medios digitales",
+            "pageHeader": {
+              "content": "beta/industries/creative/sub-sectors/digital-media/intro/es_ES.md",
+              "heroImage": "digital-media.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/overview/es_ES.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/areas-of-opportunity/es_ES.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/creative/sub-sectors/digital-media/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "financial-services",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Servicios financieros",
+          "pageHeader": {
+            "content": "beta/industries/financial-services/intro/es_ES.md",
+            "externalVideo": "https://www.youtube.com/embed/jNuEeFbLkI0?rel=0",
+            "heroImage": "financial-services.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/financial-services/overview/es_ES.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/financial-services/sub-sectors/asset-management/es_ES.md",
+            "thumbnail": "asset-management.jpg",
+            "link": "/industries/financial-services/asset-management"
+          }, {
+            "content": "beta/industries/technology/sub-sectors/data-analytics/es_ES.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
+            "content": "beta/industries/financial-services/sub-sectors/fintech/es_ES.md",
+            "thumbnail": "fintech.jpg",
+            "link": "/industries/financial-services/financial-technology"
+          }]
+        },
+        "children": [{
+          "path": "asset-management",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Gestión de activos",
+            "pageHeader": {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/intro/es_ES.md",
+              "heroImage": "asset-management.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-growing-market/es_ES.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/a-wide-range-of-funds/es_ES.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/attractive-business/es_ES.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/asset-management/sections/government-support/es_ES.md"
+            }]
+          }
+        }, {
+          "path": "financial-technology",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Tecnología financiera",
+            "pageHeader": {
+              "content": "beta/industries/financial-services/sub-sectors/fintech/intro/es_ES.md",
+              "heroImage": "fintech.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/market-conditions/es_ES.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/talent-and-skills/es_ES.md"
+            }, {
+              "content": "beta/industries/financial-services/sub-sectors/fintech/sections/support-and-incentives/es_ES.md"
+            }]
+          }
+        }]
+      }, {
+        "path": "technology",
+        "layout": "industry.html",
+        "data": {
+          "pageTitle": "Tecnología",
+          "pageHeader": {
+            "content": "beta/industries/technology/intro/es_ES.md",
+            "externalVideo": "https://www.youtube.com/embed/xp8c_eju0Lo?rel=0",
+            "heroImage": "technology.jpg"
+          },
+          "sections": [{
+            "content": "beta/industries/technology/overview/es_ES.md"
+          }],
+          "subContent": [{
+            "content": "beta/industries/technology/sub-sectors/data-analytics/es_ES.md",
+            "thumbnail": "data-analytics.jpg",
+            "link": "/industries/technology/data-analytics"
+          }, {
+            "content": "beta/industries/creative/sub-sectors/digital-media/es_ES.md",
+            "thumbnail": "digital-media.jpg",
+            "link": "/industries/creative/digital-media"
+          }, {
+            "content": "beta/industries/financial-services/sub-sectors/fintech/es_ES.md",
+            "thumbnail": "fintech.jpg",
+            "link": "/industries/financial-services/financial-technology"
+          }, {
+            "content": "beta/industries/life-sciences/sub-sectors/medical-technology/es_ES.md",
+            "thumbnail": "medical-technology.jpg",
+            "link": "/industries/health-and-life/medical-technology"
+          }]
+        },
+        "children": [{
+          "path": "data-analytics",
+          "layout": "sector.html",
+          "data": {
+            "pageTitle": "Análisis de datos",
+            "pageHeader": {
+              "content": "beta/industries/technology/sub-sectors/data-analytics/intro/es_ES.md",
+              "heroImage": "data-analytics.jpg"
+            },
+            "sections": [{
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/expanding_data_market/es_ES.md"
+            }, {
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/data_infrastructure_and_talent/es_ES.md"
+            }, {
+              "content": "beta/industries/technology/sub-sectors/data-analytics/sections/investment_in_the_future/es_ES.md"
+            }]
+          }
+        }]
+      }]
+    }, {
+      "path": "terms-and-conditions",
+      "layout": "single-section.html",
+      "data": {
+        "pageTitle": "Términos y condiciones",
+        "pageHeader": {
+          "content": "great.gov.uk/terms-and-conditions/es.md"
+        },
+        "sections": [{
+          "content": "great.gov.uk/terms-and-conditions/content/es.md"
+        }]
+      }
+    }, {
+      "path": "privacy-policy",
+      "layout": "single-section.html",
+      "data": {
+        "pageTitle": "Privacidad y cookies",
+        "pageHeader": {
+          "content": "great.gov.uk/privacy-policy/es.md"
+        },
+        "sections": [{
+          "content": "great.gov.uk/privacy-policy/content/es.md"
+        }]
+      }
+    }, {
+      "path": "feedback",
+      "layout": "feedback.html",
+      "data": {
+        "pageTitle": "Comentarios",
+        "pageHeader": {
+          "content": "beta/info/feedback/es_ES.md"
+        }
+      }
+    }, {
+      "path": "enquiries/confirmation",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "Enquiry submitted",
+        "pageHeader": {
+          "content": "beta/info/form-confirmation/es_ES.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/form-confirmation/content/es_ES.md"
+        }
+      }
+    }, {
+      "path": "enquiries/error",
+      "layout": "info.html",
+      "data": {
+        "pageTitle": "El formulario no ha llegado a nuestra base de datos",
+        "pageHeader": {
+          "content": "beta/info/form-error/es_ES.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/form-error/content/es_ES.md"
+        }
+      }
+    }, {
+      "path": "contact",
+      "layout": "contact-us.html",
+      "data": {
+        "pageTitle": "Contacto",
+        "pageHeader": {
+          "content": "beta/info/contact/es_ES.md"
+        }
+      }
+    }, {
+      "path": "location-guide",
+      "layout": "investment-ops.html",
+      "data": {
+        "pageTitle": "Guía de ubicaciones",
+        "overview": {
+          "content": "beta/investment-ops/overview/es_ES.md"
+        },
+        "stayInTouch": {
+          "content": "beta/investment-ops/stay-in-touch/es_ES.md"
+        }
+      }
+    }, {
+      "path": "location-guide/confirmation",
+      "layout": "500.html",
+      "data": {
+        "pageTitle": "Gracias por registrarse…",
+        "pageHeader": {
+          "content": "beta/info/investment-ops-confirmation/es_ES.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/investment-ops-confirmation/content/es_ES.md"
+        }
+      }
+    }]
+  }]
+}
