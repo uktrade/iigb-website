@@ -20,3 +20,12 @@ Before you start the incorporation process, you’ll need:
 A UK company must have documents called a 'memorandum and articles of association', which must be in place at the time of incorporation. You can use standard template documents, or professional advisers can prepare and file tailored documents on your company’s behalf.
 
 It is not a legal requirement to have a UK resident director or shareholder to set up a UK company. However, many banks will prefer that you have UK resident directors or shareholders before they will [open a UK business bank account](/int/setup-guide/open-a-business-account/) for your business.
+
+
+### Services to help you set-up in the UK
+The UK government can provide information to help you set up in the UK. Please contact us to find out more. 
+
+Many companies in the UK can also provide you with specific advice and guidance on establishing your presence in the UK. The UK government is working in partnership with the following companies that can help you with your specific queries;
+* Barclays, the international banking group, has a variety of products and services that can help businesses locate in the UK. See [Barclay’s corporate products and services](https://www.barclayscorporate.com/products-and-solutions.html)
+* PwC, the international professional services network based in London. See [PwC’s advice on investing in the UK](https://www.pwc.co.uk/doing-business-in-the-uk.html)
+* KPMG, provides audit, tax and advisory services for companies setting up in the UK. Read about [KPMG’s services](https://home.kpmg.com/xx/en/home.html)
