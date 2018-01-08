@@ -13,3 +13,12 @@ VAT is not applied to most export transactions, although it is likely to apply t
 ## Tax on imports
 
 Imports into the UK (and other EU countries) from non-EU countries have import duty charged on goods but not services.
+
+## Services to help you understand UK business taxes
+
+The UK government can provide information on how the tax environment works in the UK, the incentives which might be available to you if you set up here, and how we compare internationally. Please [contact us](https://invest.great.gov.uk/int/contact/) to find out more.  Many companies in the UK can offer tax advice. The UK government is working in partnership with the following companies; 
+* KPMG, whose strategy team provide tax, audit and advisory services to those wanting to set up in the UK audit. Read about [KPMG’s services](https://home.kpmg.com/uk/en/home/services/tax.html)
+* PwC, an international professional services network based in 157 countries across the world. See [PwC’s advice on investing in the UK](https://www.pwc.co.uk/facilitating-global-growth.html)
+* EY is an international business services company. Read about [EY’s tax services](http://www.ey.com/uk/en/services/tax/about-our-global-tax-services)
+* Deloitte is a network of business services companies. Read about [Deloitte’s tax services](https://www2.deloitte.com/uk/en/services/tax.html) 
+
