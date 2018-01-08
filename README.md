@@ -24,10 +24,10 @@ This application is written using the [Node.js](https://nodejs.org/en/) JavaScri
 
 ## The purpose
 
-This application pulls together the modules which make up invest.gov.uk:
+This application contains the modules which make up invest.gov.uk:
 
-- IIGB-beta-structure
-- IIGB-beta-content
+- structure
+- content
 - The website layout can be found within the src folder in this project.
 
 ## Prerequisites
@@ -46,9 +46,9 @@ In order to run the tool locally in development you'll need the following :
 Run the following from the command line to download the repository and change into the directory:
 
 ```bash
-git clone git@github.com:uktrade/iigb-beta-website.git
+git clone git@github.com:uktrade/iigb-website.git
 
-cd iigb-beta-website
+cd iigb-website
 ```
 
 ### Run the development server
