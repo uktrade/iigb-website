@@ -9,4 +9,6 @@ Around one-third of British consumers are buying and eating free-from food, of w
 
 Gluten-free baked goods make up the majority of the free-from category - the market for these products grew nearly 30% between 2013 and 2015, to 210 million GBP. In 2015, 12% of new food products launched in the UK claimed to be gluten-free.
 
+Based on up and coming trends and the increasing awareness of freefrom, the market is likely to grow 43% by 2020 to GBP 673 million, which offers opportunities for new players to enter the market.
+
 Frozen free-from food products are now worth approximately 15 million GBP with frozen prepared ready meals contributing to just over 9 million GBP of the market value.
