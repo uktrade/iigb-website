@@ -1,0 +1,29 @@
+{
+  "globalData": {
+    "base": "int",
+    "locale": {
+      "language": "kr",
+      "country": "int",
+      "code": "ko_KR",
+      "countryName": "International"
+    },
+    "labels": {
+      "content": "_labels/labels.md",
+      "hoist": true
+    },
+    "formBlock": {
+      "content": "beta/info/contact/ko_KR.md"
+    }
+  },
+  "pages": [{
+        "path": "int/kr/contact",
+        "layout": "contact-us.html",
+        "data": {
+          "pageTitle": "Get in touch",
+          "pageHeader": {
+            "content": "beta/form-nf/ko_KR.md"
+          }
+       }
+    }
+  ]
+}
