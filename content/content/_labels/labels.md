@@ -142,7 +142,7 @@ contact:
  pt_BR: Fale conosco
  pt_INT: Contacte-nos
  ar_SA: الاتصال بنا
- ko_KR: Contact us (missing translation)
+ ko_KR: 연락처
 industries:
  fr_FR: Industries
  de_DE: Branchen
@@ -305,7 +305,7 @@ form_contact_details_nf:
  pt_BR: Informações de contato
  pt_INT: Informações de contacto
  ar_SA: معلومات جهة الاتصال
- ko_KR: 연락처 정보
+ ko_KR: 담당자 연락처
 form_contact_details_reason:
  fr_FR: Nous les utiliserons pour vous mettre en contact avec votre bureau local
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
@@ -368,7 +368,7 @@ form_email:
  pt_BR: E-mail de trabalho
  pt_INT: E-mail - Trabalho
  ar_SA: البريد الإلكتروني للعمل
- ko_KR: 근무처의 이메일
+ ko_KR: 담당자 이메일
 form_enter_email:
  fr_FR: Indiquez votre adresse e-mail
  de_DE: Geben Sie Ihre Emailadresse ein
@@ -409,7 +409,7 @@ form_phone:
  pt_BR: Telefone comercial (opcional)
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
- ko_KR: 근무처의 전화번호 (선택사항)
+ ko_KR: 담당자 전화번호 (선택사항)
 form_enter_phone:
  fr_FR: Indiquez votre numéro de téléphone
  de_DE: Enter your telephone number
@@ -450,7 +450,7 @@ form_investment:
  pt_BR: Seu investimento
  pt_INT: O seu investimento
  ar_SA: استثمارك
- ko_KR: 귀사의 투자에 대한 정보
+ ko_KR: 귀사의 투자정보
 form_investment_project:
  fr_FR: Parlez-nous de votre investissement
  de_DE: Angaben zu Ihrer Investition
@@ -481,7 +481,7 @@ form_investment_details:
  pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
  ar_SA: أخبرنا عن شركتك وخططك المتعلقة بالمملكة المتحدة من حيث حجم الاستثمار وخطط التشغيل والتوظيف. يُرجى أيضًا إخبارنا ما هي المساعدة التي تحتاج أن تقدمها لك حكومة المملكة المتحدة.
- ko_KR: 귀사에 대해서 그리고 투자의 규모와 운영 및 채용 계획의 관점에서 귀사의 영국 관련 계획에 대해 설명해 주세요.  또한 영국 정부에 대해 귀사가 원하는 지원에 관해서도 말씀해 주세요.
+ ko_KR: 귀사 소개 및 귀사의 전반적인 영국 진출 계획 (투자 규모, 운영 및 채용 계획 등)에대해서 설명해 주세요. 또한, 귀사가 영국 정부로부터 지원받고 싶은 사항에대해서도 말씀해 주세요.
 form_enter_annual_turnover:
  fr_FR: Sélectionnez l'échelle qui reflète votre chiffre d'affaires annuel
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
@@ -594,7 +594,7 @@ form_staff_number:
    pt_BR: Número total de funcionários atual
    pt_INT: Estimativa do número de pessoal atual
    ar_SA: العدد الإجمالي الحالي للموظفين
-   ko_KR: 현재의 총 직원수
+   ko_KR: 현재 총 직원수
  options:
    '0': Less than 10
    '1': 10 to 50
@@ -641,10 +641,10 @@ form_staff_number:
    - Entre 51 e 250
    - Mais de 250
    ko_KR:
-   - 10인 미만
-   - 10~50인
-   - 51~250인
-   - 250인 초과
+   - 10명 미만
+   - 10~50명
+   - 51~250명
+   - 250명 초과
    ar_SA: 
    - أقل من 10
    - من 10 إلى 50
@@ -1083,7 +1083,7 @@ form_company:
  pt_BR: Sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
- ko_KR: 귀사에 대한 정보
+ ko_KR: 회사 정보
 form_company_nf:
  fr_FR: Votre entreprise
  de_DE: Ihr Unternehmen
@@ -1177,7 +1177,7 @@ form_do_not_have_website:
  pt_BR: Eu não tenho um site
  pt_INT: Não tenho um Website
  ar_SA: ليس لدي موقع ويب
- ko_KR: 홈페이지 없음
+ ko_KR: 회사 홈페이지 없음
 form_enter_primary_industry:
  fr_FR: Sélectionnez l'industrie dans laquelle vous exercez principalement ou sélectionnez Autre
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"

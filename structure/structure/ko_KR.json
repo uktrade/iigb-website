@@ -17,7 +17,7 @@
   },
   "pages": [{
         "path": "int/kr/contact",
-        "layout": "contact-us.html",
+        "layout": "contact-us-kr.html",
         "data": {
           "pageTitle": "Get in touch",
           "pageHeader": {
