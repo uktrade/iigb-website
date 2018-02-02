@@ -1,0 +1,42 @@
+{
+  "globalData": {
+    "base": "int",
+    "locale": {
+      "language": "kr",
+      "country": "int",
+      "code": "ko_KR",
+      "countryName": "International"
+    },
+    "labels": {
+      "content": "_labels/labels.md",
+      "hoist": true
+    },
+    "formBlock": {
+      "content": "beta/info/contact/ko_KR.md"
+    }
+  },
+  "pages": [{
+        "path": "int/kr/contact",
+        "layout": "contact-us-kr.html",
+        "data": {
+          "pageTitle": "Get in touch",
+          "pageHeader": {
+            "content": "beta/form-nf/ko_KR.md"
+          }
+       }
+    },
+  {
+      "path": "int/kr/enquiries/confirmation",
+      "layout": "contact-us-confirmation-kr.html",
+      "data": {
+        "pageTitle": "Your message has been sent",
+        "pageHeader": {
+          "content": "beta/info/form-confirmation-nf/ko_KR.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/form-confirmation-nf/content/ko_KR.md"
+        }
+      }
+    }
+  ]
+}
