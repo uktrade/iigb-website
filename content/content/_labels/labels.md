@@ -326,7 +326,7 @@ form_full_name:
  pt_BR: Nome completo
  pt_INT: Nome completo
  ar_SA: الاسم الكامل
- ko_KR: Full name (translation not provided)
+ ko_KR: 성함
 form_enter_full_name:
  fr_FR: Indiquez votre nom complet
  de_DE: Geben Sie Ihren vollständigen Namen ein
@@ -4071,7 +4071,7 @@ form_disclaimer_tc:
  pt_BR: termos e condições.
  pt_INT: termos e condições.
  ar_SA: الشروط والأحكام
- ko_KR: terms and conditions.
+ ko_KR: 이용약관
 form_enter_page_title:
  fr_FR: Indiquez le nom de la page où vous avez rencontré un problème
  de_DE: 

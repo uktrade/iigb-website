@@ -24,6 +24,19 @@
             "content": "beta/form-nf/ko_KR.md"
           }
        }
+    },
+  {
+      "path": "int/kr/enquiries/confirmation",
+      "layout": "contact-us-confirmation-kr.html",
+      "data": {
+        "pageTitle": "Your message has been sent",
+        "pageHeader": {
+          "content": "beta/info/form-confirmation-nf/ko_KR.md"
+        },
+        "infoBlock": {
+          "content": "beta/info/form-confirmation-nf/content/ko_KR.md"
+        }
+      }
     }
   ]
 }
