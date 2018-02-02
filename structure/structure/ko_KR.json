@@ -1,6 +1,6 @@
 {
   "globalData": {
-    "base": "int",
+    "base": "int/kr",
     "locale": {
       "language": "kr",
       "country": "int",
@@ -25,7 +25,7 @@
           }
        }
     },
-  {
+    {
       "path": "int/kr/enquiries/confirmation",
       "layout": "contact-us-confirmation-kr.html",
       "data": {
