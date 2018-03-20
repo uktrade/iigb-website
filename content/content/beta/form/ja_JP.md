@@ -1,7 +1,7 @@
 ---
 title: "DITの役割"
 list: 
-  - text: 貴社の産業分野の企業とのネットワ
+  - text: 貴社の産業分野の企業とのネットワーク
     icon: connections
   - text: ク構築ビザの申請など、入国関連の各側面におけるサポート
     icon: immigration
