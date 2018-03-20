@@ -1,5 +1,5 @@
 ---
-title: ヘルスケアとライフサイエン
+title: ヘルスケアとライフサイエンス
 published: true
 ---
 
