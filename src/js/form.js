@@ -31,9 +31,9 @@ function setFormsActionAttribute() {
     $('form').each(function() {
       var form = $(this)
       if (form.attr('id') === 'ist-form') {
-        form.attr('action', 'https://iigb-forms-staging.herokuapp.com/form')
+        form.attr('action', 'https://iigb-form-processor-staging.cloudapps.digital/form')
       } else if (form.attr('id') === 'feedback-form') {
-        form.attr('action', 'https://iigb-forms-staging.herokuapp.com/feedback')
+        form.attr('action', 'https://iigb-form-processor-staging.cloudapps.digital/feedback')
       }
     });
   }

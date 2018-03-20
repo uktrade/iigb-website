@@ -98,6 +98,7 @@ setup_guide:
  pt_BR: Guia para estabelecer no Reino Unido
  pt_INT: Guia para estabelecer no Reino Unido
  ar_SA: دليل تأسيس الشركات في المملكة المتحدة
+ ko_KR: UK setup guide
 home:
  fr_FR: Accueil
  de_DE: Startseite
@@ -108,6 +109,7 @@ home:
  pt_BR: Início
  pt_INT: Início
  ar_SA: الرئيسية
+ ko_KR: Home
 privacy:
  fr_FR: Confidentialité et cookies
  de_DE: Datenschutz und Cookies
@@ -118,6 +120,7 @@ privacy:
  pt_BR: Privacidade e cookies
  pt_INT: Privacidade e cookies
  ar_SA: الخصوصية وملفات تعريف الارتباط
+ ko_KR: Privacy and cookies
 terms:
  fr_FR: Conditions générales
  de_DE: AGB
@@ -128,6 +131,7 @@ terms:
  pt_BR: Termos e condições
  pt_INT: Termos e condições
  ar_SA: الشروط والأحكام
+ ko_KR: Terms and conditions
 contact:
  fr_FR: Contactez-nous
  de_DE: Kontakt
@@ -138,6 +142,7 @@ contact:
  pt_BR: Fale conosco
  pt_INT: Contacte-nos
  ar_SA: الاتصال بنا
+ ko_KR: 연락처
 industries:
  fr_FR: Industries
  de_DE: Branchen
@@ -148,6 +153,7 @@ industries:
  pt_BR: Indústrias
  pt_INT: Indústrias
  ar_SA: الصناعات
+ ko_KR: Industries
 industry_overviews:
  fr_FR: Présentations des industries
  de_DE: Industry overviews:DE
@@ -299,6 +305,7 @@ form_contact_details_nf:
  pt_BR: Informações de contato
  pt_INT: Informações de contacto
  ar_SA: معلومات جهة الاتصال
+ ko_KR: 담당자 연락처
 form_contact_details_reason:
  fr_FR: Nous les utiliserons pour vous mettre en contact avec votre bureau local
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
@@ -319,6 +326,7 @@ form_full_name:
  pt_BR: Nome completo
  pt_INT: Nome completo
  ar_SA: الاسم الكامل
+ ko_KR: 성함
 form_enter_full_name:
  fr_FR: Indiquez votre nom complet
  de_DE: Geben Sie Ihren vollständigen Namen ein
@@ -339,6 +347,7 @@ form_title:
  pt_BR: Cargo
  pt_INT: Cargo
  ar_SA: المسمى الوظيفي
+ ko_KR: 직위
 form_enter_title:
  fr_FR: Indiquez l'intitulé de votre poste
  de_DE: Position eingeben
@@ -359,6 +368,7 @@ form_email:
  pt_BR: E-mail de trabalho
  pt_INT: E-mail - Trabalho
  ar_SA: البريد الإلكتروني للعمل
+ ko_KR: 담당자 이메일
 form_enter_email:
  fr_FR: Indiquez votre adresse e-mail
  de_DE: Geben Sie Ihre Emailadresse ein
@@ -399,6 +409,7 @@ form_phone:
  pt_BR: Telefone comercial (opcional)
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
+ ko_KR: 담당자 전화번호 (선택사항)
 form_enter_phone:
  fr_FR: Indiquez votre numéro de téléphone
  de_DE: Enter your telephone number
@@ -439,6 +450,7 @@ form_investment:
  pt_BR: Seu investimento
  pt_INT: O seu investimento
  ar_SA: استثمارك
+ ko_KR: 귀사의 투자정보
 form_investment_project:
  fr_FR: Parlez-nous de votre investissement
  de_DE: Angaben zu Ihrer Investition
@@ -469,6 +481,7 @@ form_investment_details:
  pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
  ar_SA: أخبرنا عن شركتك وخططك المتعلقة بالمملكة المتحدة من حيث حجم الاستثمار وخطط التشغيل والتوظيف. يُرجى أيضًا إخبارنا ما هي المساعدة التي تحتاج أن تقدمها لك حكومة المملكة المتحدة.
+ ko_KR: 귀사 소개 및 귀사의 전반적인 영국 진출 계획 (투자 규모, 운영 및 채용 계획 등)에대해서 설명해 주세요. 또한, 귀사가 영국 정부로부터 지원받고 싶은 사항에대해서도 말씀해 주세요.
 form_enter_annual_turnover:
  fr_FR: Sélectionnez l'échelle qui reflète votre chiffre d'affaires annuel
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
@@ -581,6 +594,7 @@ form_staff_number:
    pt_BR: Número total de funcionários atual
    pt_INT: Estimativa do número de pessoal atual
    ar_SA: العدد الإجمالي الحالي للموظفين
+   ko_KR: 현재 총 직원수
  options:
    '0': Less than 10
    '1': 10 to 50
@@ -626,6 +640,11 @@ form_staff_number:
    - Entre 10 e 50
    - Entre 51 e 250
    - Mais de 250
+   ko_KR:
+   - 10명 미만
+   - 10~50명
+   - 51~250명
+   - 250명 초과
    ar_SA: 
    - أقل من 10
    - من 10 إلى 50
@@ -1064,6 +1083,7 @@ form_company:
  pt_BR: Sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
+ ko_KR: 회사 정보
 form_company_nf:
  fr_FR: Votre entreprise
  de_DE: Ihr Unternehmen
@@ -1074,6 +1094,7 @@ form_company_nf:
  pt_BR: Sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
+ ko_KR: 귀사에 대한 정보
 form_company_reason:
  fr_FR: Donnez-nous des informations sur vos activités actuelles
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
@@ -1094,6 +1115,7 @@ form_registered_company:
  pt_BR: Nome da empresa registado
  pt_INT: Nome da empresa registado
  ar_SA: اسم الشركة
+ ko_KR: 회사명
 form_enter_registered_company:
  fr_FR: Indiquez le nom de votre entreprise
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
@@ -1124,6 +1146,7 @@ form_website_nf:
  pt_BR: Site da empresa
  pt_INT: Website da empresa
  ar_SA: موقع ويب الشركة
+ ko_KR: 회사 홈페이지
 form_enter_website:
  fr_FR: Indiquez l'adresse du site Web de votre entreprise
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
@@ -1154,6 +1177,7 @@ form_do_not_have_website:
  pt_BR: Eu não tenho um site
  pt_INT: Não tenho um Website
  ar_SA: ليس لدي موقع ويب
+ ko_KR: 회사 홈페이지 없음
 form_enter_primary_industry:
  fr_FR: Sélectionnez l'industrie dans laquelle vous exercez principalement ou sélectionnez Autre
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
@@ -4036,6 +4060,7 @@ form_disclaimer:
  pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  ar_SA: عن طريق إرسال تفاصيلك لنا، أنت تؤكد أن المعلومات التي شاركتها معنا صحيحة، وأنك توافق على بنودنا وشروطنا.
+ ko_KR: 
 form_disclaimer_tc:
  fr_FR: conditions générales.
  de_DE: Nutzungsbedingungen zu.
@@ -4046,6 +4071,7 @@ form_disclaimer_tc:
  pt_BR: termos e condições.
  pt_INT: termos e condições.
  ar_SA: الشروط والأحكام
+ ko_KR: 이용약관
 form_enter_page_title:
  fr_FR: Indiquez le nom de la page où vous avez rencontré un problème
  de_DE: 
@@ -4105,7 +4131,8 @@ report_problem:
  es_ES: Reportar un problema
  pt_BR: Relatar um problema
  pt_INT: Relatar um problema
- ar_SA: 
+ ko_KR: Report an issue
+ ar_SA:
 report_problem_placeholder:
  fr_FR: Indiquez le nom de la page comportant le problème, en donnant le plus de détails possible.
  de_DE: Please include the name of the page with the issue, and as much detail as possible.
@@ -4176,6 +4203,7 @@ location_guide:
   pt_BR: Guia de localização
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
+  ko_KR: Location guide
 concentration_high:
   fr_FR: Élevé
   de_DE: Hoch

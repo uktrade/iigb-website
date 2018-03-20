@@ -1,0 +1,55 @@
+<!-- Change target to timestamped folder if there is a build -->
+{% set assets = 'assets/'+ build if build else 'assets' %}
+
+
+{% include "partials/top.html" %}
+
+{% include "partials/overlay.html" %}
+
+<!--[if lte IE 8]>
+<style>
+    .jumbotron {
+      background-image: url("/{{assets}}/media/hero-img/home-default.jpg");
+        background-size: cover;
+        margin-top: -9%;
+    }
+</style>
+<![endif]-->
+</div>
+
+<!--
+[cms-fields]
+  pageHeader:
+    type: content
+    label: Page Intro
+    fields:
+      content:
+        type: text
+        label: Content
+        help: Choose content to appear in this section
+      heroImage:
+        type: text
+        label: Hero Image
+        help: Choose image to show as hero background image
+      externalVideo:
+        type: text
+        label: External video url
+      heroVideo:
+        type: text
+        label: Hero video
+        help: Choose video to show as hero background video
+      heroVideoImage:
+        type: text
+        label: Hero video poster
+        help: Image to show in case of video autoplay failure ?
+[/cms-fields]
+  -->
+
+{% block content %}
+{% endblock %}
+
+{% block footer %}
+{% include "partials/footer-kr.html" %}
+{% endblock %}
+
+{% include "partials/bottom.html" %}
