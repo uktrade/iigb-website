@@ -300,7 +300,7 @@ form_contact_details_nf:
  de_DE: Kontaktangaben
  en_US: Contact information 
  zh_CN: 联系信息
- ja_JP: 連絡先情報
+ ja_JP: ご連絡先情報
  es_ES: Información de contacto
  pt_BR: Informações de contato
  pt_INT: Informações de contacto
@@ -321,7 +321,7 @@ form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
  zh_CN: 全名
- ja_JP: ご氏名
+ ja_JP: 氏名
  es_ES: Nombre completo
  pt_BR: Nome completo
  pt_INT: Nome completo
@@ -456,7 +456,7 @@ form_investment_project:
  de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
  zh_CN: 告知我们您的投资相关信息
- ja_JP: T貴社の投資についてお聞かせください。
+ ja_JP: 貴社の投資についてお聞かせください。
  es_ES: Cuéntenos acerca de su inversión
  pt_BR: Conte-nos sobre o seu investimento
  pt_INT: Fale-nos sobre o seu investimento
@@ -476,7 +476,8 @@ form_investment_details:
  de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: 向我们告知您的公司和您的英国投资计划的相关信息 - 投资规模以及运营和招聘计划。也请向我们告知您希望英国政府为您提供什么帮助。
- ja_JP: 貴社について、および投資の規模、運営、採用計画の観点から英国に対する貴社の計画についてご説明ください。また、英国政府に求めるサポートについてもお聞かせください。
+ ja_JP: 貴社の事業概要、及び対英投資の計画（規模・運営・採用）についてご説明ください。
+また、英国政府からどのようなサポートをご希望か、併せてお聞かせください。
  es_ES: Cuéntenos sobre su empresa y sus planes para el Reino Unido en cuanto a la magnitud de su inversión, sus planes operativos y de contratación. Díganos qué ayuda le gustaría recibir del gobierno británico.
  pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
@@ -1110,7 +1111,7 @@ form_registered_company:
  de_DE: Eingetragener Firmenname
  en_US: Company name
  zh_CN: 公司名称
- ja_JP: 正式登録の社名
+ ja_JP: 企業名
  es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
  pt_INT: Nome da empresa registado
@@ -4055,7 +4056,7 @@ form_disclaimer:
  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
  zh_CN: 向我们发送您的详细信息，即表明您确认您与我们分享的信息真实有效，且您接受我们
- ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり
+ ja_JP: 本情報をお送りいただいた時点で、送付情報が正確かつ当省の利用規約に同意したこととみなします
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
  pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
