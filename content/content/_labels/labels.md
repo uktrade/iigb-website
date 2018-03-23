@@ -4127,7 +4127,7 @@ report_problem:
  de_DE: Ein Problem melden
  en_US: Report an issue
  zh_CN: 报告问题
- ja_JP: 問題を報告します
+ ja_JP: 問題を報告
  es_ES: Reportar un problema
  pt_BR: Relatar um problema
  pt_INT: Relatar um problema
@@ -4433,7 +4433,7 @@ investment_opts_thinking:
   de_DE: 'Wenn Sie darüber nachdenken, in Großbritannien zu investieren, empfehlen wir Ihnen Kontakt mit unserem Investment Services Team aufzunehmen, das Ihnen mit Informationen, Verbindungen und Anreizen weiterhelfen kann.'
   en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
   zh_CN: '如果您考虑在英国投资，请与我们的投资服务团队交谈，了解真知灼见、人脉和激励措施。'
-  ja_JP: ''
+  ja_JP: ''詳しいサポート内容については、各国の英国大使館、高等弁務官事務所、領事館などにある当省の対英投資チームまでお問い合わせください。'
   es_ES: ''
   pt_BR: ''
   pt_INT: ''
