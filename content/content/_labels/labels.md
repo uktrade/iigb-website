@@ -476,8 +476,7 @@ form_investment_details:
  de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: 向我们告知您的公司和您的英国投资计划的相关信息 - 投资规模以及运营和招聘计划。也请向我们告知您希望英国政府为您提供什么帮助。
- ja_JP: 貴社の事業概要、及び対英投資の計画（規模・運営・採用）についてご説明ください。
-また、英国政府からどのようなサポートをご希望か、併せてお聞かせください。
+ ja_JP: 貴社の事業概要、及び対英投資の計画（規模・運営・採用）についてご説明ください。また、英国政府からどのようなサポートをご希望か、併せてお聞かせください。
  es_ES: Cuéntenos sobre su empresa y sus planes para el Reino Unido en cuanto a la magnitud de su inversión, sus planes operativos y de contratación. Díganos qué ayuda le gustaría recibir del gobierno británico.
  pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
@@ -4434,7 +4433,7 @@ investment_opts_thinking:
   de_DE: 'Wenn Sie darüber nachdenken, in Großbritannien zu investieren, empfehlen wir Ihnen Kontakt mit unserem Investment Services Team aufzunehmen, das Ihnen mit Informationen, Verbindungen und Anreizen weiterhelfen kann.'
   en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
   zh_CN: '如果您考虑在英国投资，请与我们的投资服务团队交谈，了解真知灼见、人脉和激励措施。'
-  ja_JP: ''詳しいサポート内容については、各国の英国大使館、高等弁務官事務所、領事館などにある当省の対英投資チームまでお問い合わせください。'
+  ja_JP: '詳しいサポート内容については、各国の英国大使館、高等弁務官事務所、領事館などにある当省の対英投資チームまでお問い合わせください。'
   es_ES: ''
   pt_BR: ''
   pt_INT: ''

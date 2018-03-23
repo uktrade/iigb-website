@@ -1,9 +1,9 @@
 ---
 title: "DITの役割"
 list: 
-  - text: 貴社の産業分野の企業とのネットワーク構築
+  - text: 貴社の産業分野の企業とのネットワーク
     icon: connections
-  - text: ビザの申請など、入国関連の各側面におけるサポート
+  - text: ク構築ビザの申請など、入国関連の各側面におけるサポート
     icon: immigration
   - text: 貴社の成長に役立つ補助金やインセンティブを紹介
     icon: incentives
