@@ -19,5 +19,4 @@ next_detail: "We've sent your contact form to the Invest in Great Britain agents
 ---
 英国の国際通商省（DIT＝Department for International Trade）は海外企業が英国で事業を立ち上げ、成長することをサポートしています。
 
-各国の英国大使館、高等弁務官事務所、領事館などにある当省の対英投資チームは以下のサービスを提供します。
-
+詳しいサポート内容については、各国の英国大使館、高等弁務官事務所、領事館などにある当省の対英投資チームまでお問い合わせください。
